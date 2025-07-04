@@ -1,4 +1,4 @@
-import { ListFilter, LogOut, MessageSquareDiff, Search, User } from "lucide-react";
+import { ListFilter, LogOut, MessageSquareDiff, Search } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import ThemeSwitch from "@/components/home/theme-switch";
 import {conversations} from "@/dummy-data/db";
